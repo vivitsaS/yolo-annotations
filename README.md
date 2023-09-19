@@ -1,6 +1,6 @@
-Conversion from yolo format (from CVAT) to the format required by the yolo pipeline
+Conversion from yoloV7 format (from CVAT) to the format required by the yoloV7 pipeline
 
-Yolo format:
+yoloV7 format:
 data
 - obj_train_data
 {label .txt files}
